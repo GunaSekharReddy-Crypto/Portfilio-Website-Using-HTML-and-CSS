@@ -73,7 +73,7 @@ p{
     color: white;
 }
 footer{
-    background-image: radial-gradient( circle 250px at 48% 50.5%, rgba(40,49,73,0.93) 4.6%, rgba(40,49,73,1) 93.6% );
+    background-color: black;
     color:white;
     height: 60px;
     
